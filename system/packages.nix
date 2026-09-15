@@ -29,8 +29,12 @@
 
   # c/c++ tools.
   gcc
+  gnumake
   cmake
+  ninja
+  pkg-config
   gdb
+  valgrind
 
   # misc.
   bibata-cursors

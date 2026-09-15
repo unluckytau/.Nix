@@ -41,8 +41,8 @@
 		enableBashIntegration = true;
 		settings = {
 			character = {
-				success_symbol = "[╰ ζ](bold cyan)";
-        error_symbol = "[╰ ζ](bold red)";
+				success_symbol = "[⟩](bold cyan)";
+        error_symbol = "[⟩](bold red)";
 			};
 		};
 	};
