@@ -49,7 +49,7 @@ order = [ "Island" ]
     shadow = false
     show_on_workspace_switch = true
     start = [ "workspaces" ]
-    thickness = 27
+    thickness = 30
     widget_spacing = 8
 
         [bar.Island.dead_zone]
