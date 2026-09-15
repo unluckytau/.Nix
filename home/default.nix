@@ -39,11 +39,5 @@
 	programs.starship = {
 		enable = true;
 		enableBashIntegration = true;
-		settings = {
-			character = {
-				success_symbol = "[⟩](bold cyan)";
-        error_symbol = "[⟩](bold red)";
-			};
-		};
 	};
 }
